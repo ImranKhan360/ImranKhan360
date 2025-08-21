@@ -3,9 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imon1&label=Profile%20views&color=0e75b6&style=flat" alt="imon1" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=imon1" alt="imon1" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/imonhasan360" target="blank"><img src="https://img.shields.io/twitter/follow/imonhasan360?logo=twitter&style=for-the-badge" alt="imonhasan360" /></a> </p>
+<p align="left"> <a href="https://twitter.com/imonhasan360" target="blank"><img src="https://img.shields.io/twitter/follow/ImranKhan171281?logo=twitter&style=for-the-badge" alt="ImranKhan360" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
